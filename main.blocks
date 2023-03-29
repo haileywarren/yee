@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="mseS~s=7q@wfeN2jJimv" x="0" y="0"><statement name="HANDLER"><block type="basic_show_icon" id="z%7W0UPZKTr^_Z8l:?r1"><field name="i">IconNames.Asleep</field></block></statement></block><block type="device_forever" id="eLZkUDE|A7,8),l91ErQ" x="205" y="0"></block><block type="device_button_event" id=",qC1dF1j_-Lrm6jR2/5/" x="437" y="-1"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="_S7p7ujHM,8I6SPuiz=m"><field name="LEDS">`
+        . . . . . 
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        . # # # .
+        `</field></block></statement></block><block type="device_gesture_event" id="TcvDsG+Th/.:ZF]k^Jz5" x="150" y="266"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_play_note" id="?8+sls~I|iBI|v3,6yWs"><value name="note"><shadow type="device_note" id="aT`tExLT8c9vre)h~s7D"><field name="name">247</field></shadow></value><value name="duration"><shadow type="device_beat" id=":8jt`#.;_q6J;c/CKV]["><field name="fraction">BeatFraction.Half</field></shadow></value></block></statement></block><block type="led_set_display_mode" id="V{ViYA.g.mPTq)j+fs;}" disabled="true" x="24" y="436"><field name="mode">DisplayMode.BlackAndWhite</field></block></xml>
